@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  final project
 //
-//  Created by Louis Cantelaube on 01/05/2024.
+//  Created by Arlette Osuna on 01/05/2024.
 //
 
 import UIKit
